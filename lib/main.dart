@@ -71,7 +71,7 @@ class _FrasesState extends State<Frases> {
       appBar: AppBar(
         backgroundColor: Colors.black38,
         title: Text(
-          'Frase do Dia',
+          'Frases do Dia',
         ),
         centerTitle: true,
       ),
